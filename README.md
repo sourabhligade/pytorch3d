@@ -131,7 +131,7 @@ If you find PyTorch3D useful in your research, please cite our tech report:
 }
 ```
 
-If you are using the pulsar backend for sphere-rendering (the `PulsarPointRenderer` or `pytorch3d.renderer.points.pulsar.Renderer`), please cite the tech report:
+If you are using the pulsar backend for sphere-rendering (the `PulsarPointRenderer` or `pytorch3d.renderer.points.pulsar.Renderer`), please cite the technical report:
 
 ```bibtex
 @article{lassner2020pulsar,
